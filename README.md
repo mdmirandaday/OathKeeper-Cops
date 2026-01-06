@@ -1,1 +1,3 @@
 The Oath Keepers are a far right American hate group that has inflicted violence across American society, most notably during the January 6th 2021 attempt to overthrow presidential election results. Later that same year, much of their internal data was leaked, including their primary internal email server. I wrote this search on behalf of police watchdog groups in Tampa Bay who wanted to know if local officers appeared in the leak. It takes officer names, email addresses, and keywords related to Tampa Bay, and compiles slimmed down results for human review.
+
+The original email leak database to search over is NOT in this repository, and is required for the search to function properly.
